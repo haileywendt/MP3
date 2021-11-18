@@ -1,0 +1,4 @@
+﻿  MP3.cpp
+H:\MP3\MP3\MP3.cpp(141): warning C4715: 'findRowIndex': not all control paths return a value
+H:\MP3\MP3\MP3.cpp(160): warning C4715: 'findSeatIndex': not all control paths return a value
+  MP3.vcxproj -> H:\MP3\Debug\MP3.exe
